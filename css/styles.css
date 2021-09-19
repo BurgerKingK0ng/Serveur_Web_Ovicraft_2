@@ -1,0 +1,102 @@
+div#hautdepage div{
+	display: inline-block;
+}
+
+div.nav nav ul li#connexion a{
+	padding-bottom: 4px;
+	padding-top: 29px;
+}
+
+
+
+header{
+	background-color: #313131;
+}
+
+header:hover a{
+	background-color: #0060ff;
+	transition: 1s all;
+}
+
+
+div#hautdepage div.slogan h1{
+	size: 20px;
+	color: #ededed;
+	text-align: 100px;
+}
+
+nav.menu-nav ul li.btn a{
+	color: #ffffff;
+	text-decoration: none;
+	background-color: #ff060b;
+	padding: 16px;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	background-color: #0060ff;
+	transition: 1s all;
+}
+
+p.ici{
+	color: #ffffff ;
+	font-size: 30px;
+	padding-left:  500px;
+}
+
+body{
+	background-color: #313131;
+}
+
+
+h1.welcome1{
+	color: #ff8200 ;
+	padding-left:435px;
+	padding-top: 50px;
+	font-size: 75px;
+}
+
+p.mon{
+	padding-left: 375px;
+	color: #ffffff;
+	font-size: 25px
+}
+
+p.ici{
+	padding-left: 450px;
+}
+
+p.fin{
+	padding-left: 425px;
+	color: white;
+}
+
+a.lettre{
+	list-style-type: none;
+	font-size: 50px ;
+	padding-left:400px;
+	padding-bottom: 200px
+}
+
+div#first{
+	background-color: #313131;
+	padding-top: 2px;
+}
+
+div#video{
+	padding-top: : 1000px;
+}
+
+p{
+	color: white;
+}
+
+div#nav{
+	padding: 0.025px;
+	background-color: #ff060b;
+}
+
